@@ -40,6 +40,6 @@ a[rel="external"] {
     color: purple;
 }
 
-producer:first-of-type {
+experience:first-of-type {
     border-bottom: 2px dashed #ccc;
 }
