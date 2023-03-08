@@ -39,3 +39,7 @@ header > p {
 a[rel="external"] {
     color: purple;
 }
+
+p:first-of-type {
+    border-bottom: 2px dashed #ccc;
+}
