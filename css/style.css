@@ -48,7 +48,7 @@ main > section {
     margin-bottom: 3rem;
 }
 
-#section-1 > h2 ~ p strong {
+#section-2 > h2 ~ p strong {
     color: purple;
 }
 
