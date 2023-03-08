@@ -43,3 +43,19 @@ a[rel="external"] {
 #experience > section:first-of-type {
     border-bottom: 2px dashed #ccc;
 }
+
+main > section {
+    margin-bottom: 3rem;
+}
+
+main > section > h2 > p > strong {
+    color: purple;
+}
+
+section ul li:nth-child(2) {
+    color: purple;
+}
+
+dl > div {
+    background-color: #ccc;
+}
