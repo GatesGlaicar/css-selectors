@@ -11,3 +11,10 @@ h1, h2, h3 {
 p {
     margin: .5em 0;
 }
+
+h1, h3 + p {
+    color: purple;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
