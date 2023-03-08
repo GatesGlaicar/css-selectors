@@ -48,7 +48,7 @@ main > section {
     margin-bottom: 3rem;
 }
 
-main > section > h2 p ~ strong {
+h2 p ~ strong {
     color: purple;
 }
 
