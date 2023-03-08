@@ -48,7 +48,7 @@ main > section {
     margin-bottom: 3rem;
 }
 
-#strong > section:first-of-type {
+h2 > section:first-of-type {
     color: purple;
 }
 
