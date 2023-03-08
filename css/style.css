@@ -40,6 +40,6 @@ a[rel="external"] {
     color: purple;
 }
 
-section > p :first-of-type {
+#experience > p :first-of-type {
     border-bottom: 2px dashed #ccc;
 }
