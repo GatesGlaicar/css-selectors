@@ -56,6 +56,6 @@ section ul li:nth-child(2) {
     color: purple;
 }
 
-dl > div {
+dl > div:last-child {
     background-color: #ccc;
 }
